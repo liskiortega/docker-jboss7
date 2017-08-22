@@ -1,5 +1,5 @@
 FROM centos:6.6
-MAINTAINER liski.ortega@smartmatic.com / eduardo.mandry@smartmatic.com
+MAINTAINER liski.ortega@gmail.com
 #Set pass root
 RUN echo 'root:5737b3f' | chpasswd
 #Set env variables  JBOSS
