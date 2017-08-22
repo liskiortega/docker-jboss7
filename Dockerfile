@@ -1,7 +1,7 @@
 FROM centos:6.6
 MAINTAINER liski.ortega@gmail.com
 #Set pass root
-RUN echo 'root:5737b3f' | chpasswd
+RUN echo 'root:c4r4c@s' | chpasswd
 #Set env variables  JBOSS
 ENV JBOSS_HOME /opt/jboss
 ########################################################################
